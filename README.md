@@ -96,4 +96,4 @@ I am a Software Developer <img src="https://media.giphy.com/media/unxCGmTuBvwo2d
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=BuseBeker&show_icons=true&theme=radical)
 
-![snake gif](https://github.com/BuseBeker/BuseBeker/blob/output/github-contribution-grid-snake.gif)
+![github-contribution-grid-snake](https://github.com/BuseBeker/BuseBeker/blob/output/github-contribution-grid-snake.svg)
