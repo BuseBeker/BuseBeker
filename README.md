@@ -35,3 +35,21 @@ Here are some ideas to get you started:
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+I am a Software Developer <img src="https://media.giphy.com/media/unxCGmTuBvwo2djRLA/giphy.gif" width="30"> from Turkey.
+
+- 🎓 As oj June 2023, I graduated from Aydın Adnan Menderes University Computer Science and Engineering as the first in the department and the third in the faculty.
+
+- :telescope: I am interested in frontend and backend for building web applications and I am also interested in QA.
+
+- :zap: In my free time, I improve myself and read tech articles.
+
+- 🖥️  I love writing code and learn anythings about it.
+
+- :mailbox: How to reach me: [busebeker.bb@gmail.com](mailto:busebeker.bb@gmail.com)
