@@ -89,11 +89,14 @@ I am a Software Developer <img src="https://media.giphy.com/media/unxCGmTuBvwo2d
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BuseBeker&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: My Stats :fire:
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=BuseBeker&theme=dark&background=000000" alt="BuseBeker" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuseBeker&layout=compact&theme=vision-friendly-dark" alt="BuseBeker" /> &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=BuseBeker&show_icons=true&theme=radical" alt="BuseBeker" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BuseBeker&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=BuseBeker&show_icons=true&theme=radical)
-
-![github-contribution-grid-snake](https://github.com/BuseBeker/BuseBeker/blob/output/github-contribution-grid-snake.svg)
+![github-contribution-grid-snake](https://github.com/BuseBeker/BuseBeker/blob/output/github-contribution-grid-snake-dark.svg)
